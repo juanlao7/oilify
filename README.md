@@ -23,13 +23,6 @@ Options:
 [![After](examples/flower_oil.png)](examples/flower_oil.png)
 
 
-`$ python oilify.py examples/wave.jpg examples/wave_oil.png`
-
-[![Before](examples/wave.jpg)](examples/wave.jpg)
-
-[![After](examples/wave_oil.png)](examples/wave_oil.png)
-
-
 `$ python oilify.py examples/tree.jpg examples/tree_oil.png`
 
 [![Before](examples/tree.jpg)](examples/tree.jpg)
@@ -49,6 +42,13 @@ Options:
 [![Before](examples/figs.jpg)](examples/figs.jpg)
 
 [![After](examples/figs_oil.png)](examples/figs_oil.png)
+
+
+`$ python oilify.py examples/wave.jpg examples/wave_oil.png`
+
+[![Before](examples/wave.jpg)](examples/wave.jpg)
+
+[![After](examples/wave_oil.png)](examples/wave_oil.png)
 
 
 `$ python oilify.py examples/central_park.jpg examples/central_park_oil.png`
