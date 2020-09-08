@@ -2,7 +2,7 @@
 
 Small python script for converting any image into an impressionist oil painting.
 
-There are many algorithms with the same purpose and with better aesthetic results, but the key of this one is that it is *fast*. The biggest drawback is that it does not respect the edges of the shapes, while others do.
+There are many algorithms with the same purpose and with better aesthetic results, but the key of this one is that it is *fast* on CPU's. The biggest drawback is that it does not respect the edges of the shapes, while others do.
 
 ## Usage
 
